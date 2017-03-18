@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:Chat18._03._2017"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+	<Grid Background="#FF33DADA">
+		<RichTextBox x:Name="Rtb" HorizontalAlignment="Left" Height="180" Margin="14,10,0,0" VerticalAlignment="Top" Width="492" Background="#FFEFF916">
+			<FlowDocument/>
+		</RichTextBox>
+		<Button x:Name="button" Content="Send" HorizontalAlignment="Left" Margin="422,219,0,0" VerticalAlignment="Top" Width="75" Click="button_Click" Height="35"/>
+		<RichTextBox x:Name="Rtbwriting" HorizontalAlignment="Left" Height="82" Margin="19,217,0,0" VerticalAlignment="Top" Width="389" Background="#FFDF74F7">
+			<FlowDocument>
+				<Paragraph>
+					<Run Text=""/>
+				</Paragraph>
+			</FlowDocument>
+		</RichTextBox>
+
+	</Grid>
 </Window>

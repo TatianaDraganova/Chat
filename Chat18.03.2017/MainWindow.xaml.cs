@@ -24,5 +24,10 @@ namespace Chat18._03._2017
 		{
 			InitializeComponent();
 		}
+
+		private void button_Click(object sender, RoutedEventArgs e)
+		{
+
+		}
 	}
 }

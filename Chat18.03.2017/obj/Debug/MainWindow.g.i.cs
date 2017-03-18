@@ -40,6 +40,30 @@ namespace Chat18._03._2017 {
     /// </summary>
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 10 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.RichTextBox Rtb;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 13 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button button;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 14 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.RichTextBox Rtbwriting;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +92,24 @@ namespace Chat18._03._2017 {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.Rtb = ((System.Windows.Controls.RichTextBox)(target));
+            return;
+            case 2:
+            this.button = ((System.Windows.Controls.Button)(target));
+            
+            #line 13 "..\..\MainWindow.xaml"
+            this.button.Click += new System.Windows.RoutedEventHandler(this.button_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 3:
+            this.Rtbwriting = ((System.Windows.Controls.RichTextBox)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }
