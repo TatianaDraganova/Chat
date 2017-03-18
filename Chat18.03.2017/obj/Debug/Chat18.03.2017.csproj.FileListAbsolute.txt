@@ -1,1 +1,15 @@
 D:\TDr\Chat18.03.2017\Chat18.03.2017\bin\Debug\Chat18.03.2017.exe.config
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017.csprojResolveAssemblyReference.cache
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\MainWindow.g.cs
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\App.g.cs
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017_MarkupCompile.cache
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017_MarkupCompile.lref
+D:\TDr\Chat18.03.2017\Chat18.03.2017\bin\Debug\Chat18.03.2017.exe
+D:\TDr\Chat18.03.2017\Chat18.03.2017\bin\Debug\Chat18.03.2017.pdb
+D:\TDr\Chat18.03.2017\Chat18.03.2017\bin\Debug\Helper.dll
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\MainWindow.baml
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017.g.resources
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18._03._2017.Properties.Resources.resources
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017.csproj.GenerateResource.Cache
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017.exe
+D:\TDr\Chat18.03.2017\Chat18.03.2017\obj\Debug\Chat18.03.2017.pdb
